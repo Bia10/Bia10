@@ -1,16 +1,15 @@
-### Hi there 👋
+# My experiences with GHCP
 
-<!--
-**Bia10/Bia10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The irony is palpable: massive corporations are obsessed with the myth of AGI yet **remain utterly incapable of deploying simple, low-cost agentic AI at scale**. Seeing these well-funded entities choose marketing spectacles over basic utility is nothing short of being disgraceful and pathethic.
 
-Here are some ideas to get you started:
+7 days before March 16
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="783" height="125" alt="image" src="https://github.com/user-attachments/assets/f48c6e05-e221-4c12-bda2-121d8775a292" />
+
+Monday, March 16 ("the bug discovery")
+
+<img width="572" height="126" alt="image" src="https://github.com/user-attachments/assets/fb2f6531-c446-4131-9453-6edcae8416fd" />
+
+7 days after March 16
+
+<img width="783" height="125" alt="image" src="https://github.com/user-attachments/assets/4ea7c122-dc5c-456a-b415-515544532f6a" />
