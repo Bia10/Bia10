@@ -1,6 +1,6 @@
-# My experiences with GHCP
-
 The irony is palpable: massive corporations are obsessed with the myth of AGI yet **remain utterly incapable of deploying simple, low-cost agentic AI at scale**. Seeing these well-funded entities choose marketing spectacles over basic utility is nothing short of being disgraceful and pathethic.
+
+## My experiences with GHCP (GitHubCopilot)
 
 7 days before March 16
 
@@ -19,3 +19,13 @@ Monday, March 16 ("the bug discovery")
 11 days after March 16, Global rate limit? Upgrade your plan? to what exactly theres no Pro++ or Pro+++
 
 <img width="478" height="100" alt="image" src="https://github.com/user-attachments/assets/40143edc-ab3e-4b03-85fe-83f911242308" />
+
+## My experiences with CC (Claude Code)
+
+So i am paying for not being able to utilize the API?
+
+<img width="580" height="65" alt="image" src="https://github.com/user-attachments/assets/001f2ac6-b940-4aad-9200-fd567d9406ce" />
+
+Wtf is this even supposed to mean?
+
+<img width="220" height="31" alt="image" src="https://github.com/user-attachments/assets/28f5ff58-fe42-4b3e-86a3-9e6b0a1ec687" />
