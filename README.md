@@ -29,3 +29,7 @@ So i am paying for not being able to utilize the API?
 Wtf is this even supposed to mean?
 
 <img width="220" height="31" alt="image" src="https://github.com/user-attachments/assets/28f5ff58-fe42-4b3e-86a3-9e6b0a1ec687" />
+
+Ability of sonet 4.6 high reasoning effort to follow precise guide step by step
+
+<img width="753" height="414" alt="image" src="https://github.com/user-attachments/assets/ebdb9157-c2b7-4e33-a6b1-07cee88faeae" />
