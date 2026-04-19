@@ -20,6 +20,10 @@ Monday, March 16 ("the bug discovery")
 
 <img width="478" height="100" alt="image" src="https://github.com/user-attachments/assets/40143edc-ab3e-4b03-85fe-83f911242308" />
 
+...
+
+<img width="649" height="100" alt="image" src="https://github.com/user-attachments/assets/bd2e704a-8e77-443d-80a3-68caac104a07" />
+
 ## My experiences with CC (Claude Code)
 
 So i am paying for not being able to utilize the API?
